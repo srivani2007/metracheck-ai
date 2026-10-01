@@ -1,0 +1,11 @@
+{
+  "name": "MetraCheck AI – Legal Metrology Compliance Auditor",
+  "description": "AI-powered inspection assistant for checking packaged commodities against the Legal Metrology (Packaged Commodities) Rules, 2011.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
